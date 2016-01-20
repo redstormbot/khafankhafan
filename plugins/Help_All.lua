@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
 return [[ 
-help For all Plugins of INfernalTG :
+help For all Plugins of redstorm :
 1./AddBot [Invitelink] : and you can do it with replay
 ======================================================
 2./bot + [botuserID] : allow a bot to join

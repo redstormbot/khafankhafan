@@ -35,4 +35,3 @@ return {
   },
   run = run
 }
---https://github.com/INFERNALTEAM/InfernalTG--

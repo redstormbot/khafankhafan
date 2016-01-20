@@ -234,33 +234,13 @@ function create_config( )
     "tagall",
     
     },
-    sudo_users = {109722284,99743635,171604508},--Sudo users
+    sudo_users = {139837032,107746299},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[infernalTG  v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
  
- our official github :
- https://github.com/INFERNALTEAM/InfernalTG.git
-Antispambot : @InfernalTG
-website ; https://arash-infernal.epage.ir
-Admins
-@Creed_is_dead [Founder]
-@digitalboys [Developer]
-@Arashinfernal [Developer]
-@MustafFlux [Manager]
 
-Special thanks to
-Imandaneshi
-thisisarman
-yago perez ...
-and more ...
-
-Our channels
-@Infernalteamch [English]
-@infernalchannel [persian]
-@Infernalteam [persian]
-]],
     help_text_realm = [[
 group admin Commands:
 
@@ -317,7 +297,7 @@ group admin Commands:
 *Only admins and sudo can use res, setowner, commands
 ]],
     help_text = [[
-tools for InfernalTG :
+tools for redstorm :
 
 >#1.Add_bot
 >#2.Anti_Bot
@@ -352,10 +332,8 @@ tools for InfernalTG :
 >#30.SendPm
 >#31.tagall
 >#32.share
-help all plugin soon :D ,"
-You Can Get Bot version by sending !version,"
-Master admin : @ArashInfernal ,"
-our channel : @INFERNALTEAMCH ,"
+our channel : @redstormch
+to create group send 10 stickers to @anonymous_xx or @djmjcj,"
 
 ]]
   }

@@ -120,8 +120,8 @@ dont user "!" and "/"for this plug
 ===========================================
 more helps soon
 you can use both "!" and "/"
-our channell : @INFERNALTEAMCH
-Master admin : @ArashInfernal
+our channell : @redstormch
+Master admin : @Anonymous_x
 ]]
 end
 

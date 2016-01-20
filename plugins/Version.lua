@@ -8,9 +8,8 @@ Our Channel : @redstormch
 Our code is open source but !
 remember : copy right!
 spical thanx...
-imandaneshi ...
-iwals ...
-
+@djmjcj
+@Anonymous_x
 ]]
 end
 

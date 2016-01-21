@@ -77,7 +77,6 @@ install_rocks() {
 install() {
   git pull
   git submodule update --init --recursive
-  patch -i "patches/disable-python-and-libjansson.patch" -p 0 --batch --forward
   RET=$?;
 
   cd tg
@@ -111,5 +110,5 @@ else
     exit 1
   fi
 
-  ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./bot/seedbot.lua -l 1 -E $@
+  ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./bot/InfernalTG.lua -l 1 -E $@
 fi

@@ -77,7 +77,7 @@ install_rocks() {
 install() {
   git pull
   git submodule update --init --recursive
-  --batch --forward
+  
   RET=$?;
 
   cd tg
